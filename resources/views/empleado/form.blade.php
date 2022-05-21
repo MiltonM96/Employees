@@ -39,5 +39,5 @@
 </div>
 
 <input class="btn btn-success" type="submit" value="{{$modo}} datos">
-<a class="btn btn-primary" href="{{ url('empleado/') }}">Regresar</a>
+<a class="btn btn-primary" href="{{ url('empleado/') }}">Volver</a>
 <br/>
